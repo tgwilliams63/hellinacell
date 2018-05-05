@@ -1,0 +1,13 @@
+name: hellinacell
+version: 0.1.0
+
+authors:
+  - Travis Williams <travis.williams63@gmail.com>
+
+targets:
+  hellinacell:
+    main: src/hellinacell.cr
+
+crystal: 0.24.1
+
+license: MIT
